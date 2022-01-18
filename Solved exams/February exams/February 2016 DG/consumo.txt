@@ -1,0 +1,21 @@
+234AC 23Z 
+45 0 
+45A32 125 
+634 1 
+aaaaa aaa
+234 1
+bbbbb bbb
+100 1
+ccc ccc
+1000 1
+hhh
+10 1
+ggg
+1500 1
+fff
+304 1
+ttt
+746 1
+www
+901 1
+XXX

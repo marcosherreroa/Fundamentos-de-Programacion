@@ -1,0 +1,46 @@
+9
+AR678-Z
+Falda
+25
+6.5
+12
+AA897-L
+Falda
+45
+25
+100
+DS678-Z
+Camiseta
+100
+3.5
+5
+ZA190-C
+Camisa
+75
+14
+20
+GY543-F
+Falda
+35
+20
+35
+HJ431-K
+Pantalon largo
+60
+25
+33
+RF3456-X
+Pantalon corto
+50
+3.5
+10.5
+BU954-P
+Pantalon largo
+45
+23.6
+55
+ID123-A
+Camiseta
+200
+5.0
+7.0

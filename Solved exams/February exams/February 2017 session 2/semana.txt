@@ -1,0 +1,12 @@
+C MS 13 
+C IBM 4 
+V Amazon 4 
+C KTI 15 
+A KTI 2.98 
+V HKS 2 
+C FFF 3 
+C ADIF 10 
+A AEG 8.65 
+V ADIF 5 
+A MS 2.57
+X

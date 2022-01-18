@@ -1,0 +1,26 @@
+
+REGLAS
+
+"Piedra, papel, tijeras, lagarto, Spock" es una variante del clasico juego infantil  "Piedra, papel o tijera" 
+inventadapor Sam Kass. En ella, el jugador dispone de cinco elementos entre los que elegir: piedra, papel, 
+tijera, lagarto o Spock, que se relacionan de la siguiente manera:
+
+- Las tijeras cortan el papel   
+- El papel envuelve la piedra
+- La piedra aplasta al lagarto
+- El lagarto envenena a Spock
+- Spock rompe las tijeras
+- Las tijeras decapitan al lagarto
+- El lagarto devora el papel
+- El papel desautoriza a Spock
+- Spock vaporiza la piedra
+- La piedra aplasta a las tijeras
+
+Este programa permite a un unico jugador jugar a este juego contra la computadora. Al comenzar la partida, 
+la computadora elige un elemento aleatoriamente y solicita al jugador que haga su eleccion. Una vez hecha
+la eleccion, se decide el ganador segun las reglas establecidas por Kass. El jugador tiene la opcion de 
+jugar varias partidas seguidas; la computadora llevara un recuento de las partidas ganadas, empatadas 
+y perdidas que mostrara al finalizar la sesion de juego.
+IMPORTANTE: solo se permite acceder al juego a aquellos jugadores que esten registrados.
+
+XXX
